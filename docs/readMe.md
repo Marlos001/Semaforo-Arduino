@@ -1,6 +1,17 @@
+# PonderadaFarolOffline
+*Ponderada Arduino - Semana 3 (Projeto Farol)*
+
+*Nome:* Marlos do Carmo Guedes
+*Turma:* 12 
+*Módulo:* 4 - Engenharia de Software 
+
 ### Montagem
 
 Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes simples e uma protoboard para facilitar as conexões. A montagem segue os seguintes passos:
+
+<div style="text-align: center;">
+    <img src="../images/fotoSemaforo.jpeg" alt="Descrição da imagem" width="80%">
+</div>
 
 1. Coloque os LEDs (vermelho, amarelo e verde) na protoboard, com as pernas negativas dos LEDs conectadas a um ponto de terra (GND).
 2. Conecte os resistores de 330 Ω nas pernas positivas de cada LEDe.
