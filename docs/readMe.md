@@ -56,3 +56,5 @@ Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes s
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 3 - Atende perfeitamente|	
 | | | | |Pontuação Total: 10|
 
+### Video Semaforo
+Se encontra na pasta images
