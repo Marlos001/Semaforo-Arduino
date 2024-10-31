@@ -13,6 +13,9 @@ Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes s
     <img src="../images/fotoSemaforo.jpeg" alt="Descrição da imagem" width="80%">
 </div>
 
+### Video Semaforo
+Se encontra na pasta images
+
 1. Coloque os LEDs (vermelho, amarelo e verde) na protoboard, com as pernas negativas dos LEDs conectadas a um ponto de terra (GND).
 2. Conecte os resistores de 330 Ω nas pernas positivas de cada LEDe.
 3. Use os jumpers para ligar cada LED a uma porta do Arduino Uno (9, 10, 11).
@@ -56,5 +59,3 @@ Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes s
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 3 - Atende perfeitamente|	
 | | | | |Pontuação Total: 10|
 
-### Video Semaforo
-Se encontra na pasta images
