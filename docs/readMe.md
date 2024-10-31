@@ -30,3 +30,29 @@ Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes s
 | 1          | Protoboard               | -                  |
 | 1          | Arduino Uno              | -                  |
 | 1          | Cabo de Alimentação      | -                  |
+
+
+### Tabela de Avaliação entre Pares (Avaliação Recebida)
+
+#### Avaliador: Thiago Volcati
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | 3 - Atende perfeitamente|	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 | 3 - Atende perfeitamente|	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 | 3 - Atende perfeitamente|	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 3 - Atende perfeitamente|	
+| | | | |Pontuação Total: 10|
+
+### Tabela de Avaliação entre Pares (Avaliado)
+
+#### Avaliado: Thiago Volcati
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | 3 - Atende perfeitamente|	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 | 3 - Atende perfeitamente|	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 | 3 - Atende perfeitamente|	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | 3 - Atende perfeitamente|	
+| | | | |Pontuação Total: 10|
+
