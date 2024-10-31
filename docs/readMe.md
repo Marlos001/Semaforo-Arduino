@@ -13,7 +13,7 @@ Para o projeto de montagem de um semáforo com Arduino, utilizamos componentes s
     <img src="../images/fotoSemaforo.jpeg" alt="Descrição da imagem" width="80%">
 </div>
 
-### Video Semaforo
+#### Video Semaforo
 Se encontra na pasta images
 
 1. Coloque os LEDs (vermelho, amarelo e verde) na protoboard, com as pernas negativas dos LEDs conectadas a um ponto de terra (GND).
