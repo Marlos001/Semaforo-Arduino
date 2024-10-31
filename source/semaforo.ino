@@ -25,11 +25,11 @@ void loop() {
     digitalWrite(luzVermelha, LOW);
     digitalWrite(luzAmarela, HIGH);
   }
-  else if(tempoAtual > 8000 && tempoAtual <= 14000){
+  else if(tempoAtual > 8000 && tempoAtual <= 12000){
     digitalWrite(luzAmarela, LOW);
     digitalWrite(luzVerde, HIGH);
   }
-  else if(tempoAtual >= 14000 && tempoAtual <= 16000) {
+  else if(tempoAtual >= 12000 && tempoAtual <= 14000) {
     digitalWrite(luzVerde, LOW);
     digitalWrite(luzAmarela, HIGH);
   }
